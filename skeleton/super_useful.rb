@@ -31,7 +31,6 @@ def feed_me_a_fruit
       gets_coffee = gets.chomp
     end
     retry if gets_coffee == 'coffee'
-    
   end
    
 end  
